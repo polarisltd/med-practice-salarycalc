@@ -37,9 +37,12 @@ In the `application.properties` file we have 3 parameters:
     you can run the main() method in the application which will start the spring
     boot server (uses port 8080 by default).
 
+<img src="images/employees_all.png" width=200>
+<img src="images/employees_salaries.png" width=200> 
+
 ## Unit Tests
 
-There are several unit tests which cover some basic functionality.
+There are several unit tests which cover some basic functionality **(JUnit, Mockito)**.
 
 ##### Run the unit tests from your IDE:
 
