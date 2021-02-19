@@ -37,8 +37,7 @@ In the `application.properties` file we have 3 parameters:
     you can run the main() method in the application which will start the spring
     boot server (uses port 8080 by default).
 
-<img src="images/employees_all.png" width=200>
-<img src="images/employees_salaries.png" width=200> 
+<img src="images/employees_all.png"> <img src="images/employees_salaries.png"> 
 
 ## Unit Tests
 
