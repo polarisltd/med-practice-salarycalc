@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FIDAVISTA xmlns="http://lka.org.lv/lv/komitejas/fidavista0101.xsd">
+    <Header>
+        <Timestamp>20240219131423607</Timestamp>
+        <From>Sistēma Tildes Jumis TJ7.0.136.d21</From>
+    </Header>
+    <Payment>
+        <ExtId>1822</ExtId>
+        <DocNo>06</DocNo>
+        <RegDate>2024-02-19</RegDate>
+        <TaxPmtFlg>N</TaxPmtFlg>
+        <Ccy>EUR</Ccy>
+        <PmtInfo>Rēķins nr. 011</PmtInfo>
+        <PayLegalId>40003408048</PayLegalId>
+        <PayAccNo>LV62RIKO0002930174989</PayAccNo>
+        <DebitCcy>EUR</DebitCcy>
+        <BenSet>
+            <Priority>N</Priority>
+            <Comm>OUR</Comm>
+            <Amt>110.11</Amt>
+            <BenAccNo>LV10HABA0551009218135</BenAccNo>
+            <BenName>PSD, SIA</BenName>
+            <BenLegalId>40003725708</BenLegalId>
+            <BenAddress>Rīga, Tallinas iela 30A - 37, Latvija</BenAddress>
+            <BenCountry>LV</BenCountry>
+            <BBName>Swedbank, AS</BBName>
+            <BBAddress>Balasta dambis 1a, Rīga, LV-1048</BBAddress>
+            <BBSwift>HABALV22</BBSwift>
+        </BenSet>
+    </Payment>
+    <Payment>
+        <ExtId>1823</ExtId>
+        <DocNo>07</DocNo>
+        <RegDate>2024-02-19</RegDate>
+        <TaxPmtFlg>N</TaxPmtFlg>
+        <Ccy>EUR</Ccy>
+        <PmtInfo>Nomas līgums Nr. 02/2022 no 01.novembra. Nomas periods 01.02.24.-29.02.24.</PmtInfo>
+        <PayLegalId>40003408048</PayLegalId>
+        <PayAccNo>LV62RIKO0002930174989</PayAccNo>
+        <DebitCcy>EUR</DebitCcy>
+        <BenSet>
+            <Priority>N</Priority>
+            <Comm>OUR</Comm>
+            <Amt>555.00</Amt>
+            <BenAccNo>LV82RIKO0002023949898</BenAccNo>
+            <BenName>Berģīte Laimdota</BenName>
+            <BenLegalId>221064-12722</BenLegalId>
+            <BenCountry>LV</BenCountry>
+            <BBName>A/s Luminor Bank Latvijas filiāle</BBName>
+            <BBAddress>Skanstes iela 12, Rīga, LV-1013</BBAddress>
+            <BBSwift>RIKOLV2X</BBSwift>
+        </BenSet>
+    </Payment>
+    <Payment>
+        <ExtId>1824</ExtId>
+        <DocNo>08</DocNo>
+        <RegDate>2024-02-19</RegDate>
+        <TaxPmtFlg>N</TaxPmtFlg>
+        <Ccy>EUR</Ccy>
+        <PmtInfo>Algu saraksts nr. 01/2024. (2024.gada janvāris)</PmtInfo>
+        <PayLegalId>40003408048</PayLegalId>
+        <PayAccNo>LV62RIKO0002930174989</PayAccNo>
+        <DebitCcy>EUR</DebitCcy>
+        <BenSet>
+            <Priority>N</Priority>
+            <Comm>OUR</Comm>
+            <Amt>217.80</Amt>
+            <BenAccNo>LV93RIKO0000082084099</BenAccNo>
+            <BenName>Polis Roberts</BenName>
+            <BenLegalId>170458-10703</BenLegalId>
+            <BenCountry>LV</BenCountry>
+            <BBName>A/s Luminor Bank Latvijas filiāle</BBName>
+            <BBAddress>Skanstes iela 12, Rīga, LV-1013</BBAddress>
+            <BBSwift>RIKOLV2X</BBSwift>
+        </BenSet>
+    </Payment>
+    <Payment>
+        <ExtId>1825</ExtId>
+        <DocNo>09</DocNo>
+        <RegDate>2024-02-19</RegDate>
+        <TaxPmtFlg>N</TaxPmtFlg>
+        <Ccy>EUR</Ccy>
+        <PmtInfo>Algu saraksts nr. 01/2024. (2024.gada janvāris)</PmtInfo>
+        <PayLegalId>40003408048</PayLegalId>
+        <PayAccNo>LV62RIKO0002930174989</PayAccNo>
+        <DebitCcy>EUR</DebitCcy>
+        <BenSet>
+            <Priority>N</Priority>
+            <Comm>OUR</Comm>
+            <Amt>206.21</Amt>
+            <BenAccNo>LV44RIKO0001050140713</BenAccNo>
+            <BenName>Berģīte Dora</BenName>
+            <BenLegalId>130493-14100</BenLegalId>
+            <BenCountry>LV</BenCountry>
+            <BBName>A/s Luminor Bank Latvijas filiāle</BBName>
+            <BBAddress>Skanstes iela 12, Rīga, LV-1013</BBAddress>
+            <BBSwift>RIKOLV2X</BBSwift>
+        </BenSet>
+    </Payment>
+    <Payment>
+        <ExtId>1826</ExtId>
+        <DocNo>10</DocNo>
+        <RegDate>2024-02-19</RegDate>
+        <TaxPmtFlg>N</TaxPmtFlg>
+        <Ccy>EUR</Ccy>
+        <PmtInfo>nodokļu maksājums</PmtInfo>
+        <PayLegalId>40003408048</PayLegalId>
+        <PayAccNo>LV62RIKO0002930174989</PayAccNo>
+        <DebitCcy>EUR</DebitCcy>
+        <BenSet>
+            <Priority>N</Priority>
+            <Comm>OUR</Comm>
+            <Amt>222.50</Amt>
+            <BenAccNo>LV33TREL1060000300000</BenAccNo>
+            <BenName>Valsts budžets (VID)</BenName>
+            <BenLegalId>90000010008</BenLegalId>
+            <BenCountry>LV</BenCountry>
+            <BBName>Valsts kase</BBName>
+            <BBAddress>Smilšu ielā 1, Rīgā, LV-1919</BBAddress>
+            <BBSwift>TRELLV22</BBSwift>
+        </BenSet>
+    </Payment>
+</FIDAVISTA>

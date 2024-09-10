@@ -5,9 +5,9 @@ Backed by SQL tables from [this](https://dev.mysql.com/doc/employee/en/sakila-st
 The project demonstrates a **salary calculator that is based on the employees type (salaried, commission, hourly).**
 
 ## Implementation
-- Added a new abstract class [`SalaryCalculator`](src/main/java/com/chen/salarycalc/entities/salaries/SalaryCalculator.java) to keep the employee entity as clean as possible.  
-In addition, I created a factory (following the design pattern) class [`SalaryFactory`](src/main/java/com/chen/salarycalc/entities/salaries/SalaryFactory.java) for this object, increasing future flexibility.
-- Employee Data Access Layer [`EmployeeDAL`](src/main/java/com/chen/salarycalc/dal/EmployeeDAL.java) (logging, exception handling).
+- Added a new abstract class [`SalaryCalculator`](src/main/java/lv/polarisit/salarycalc/entities/salaries/SalaryCalculator.java) to keep the employee entity as clean as possible.  
+In addition, I created a factory (following the design pattern) class [`SalaryFactory`](src/main/java/lv/polarisit/salarycalc/entities/salaries/SalaryFactory.java) for this object, increasing future flexibility.
+- Employee Data Access Layer [`EmployeeDAL`](src/main/java/lv/polarisit/salarycalc/dal/EmployeeDAL.java) (logging, exception handling).
 - Added a `type` column in the employee table.
 - SQL script [`employees.sql`](employees.sql) is present.
 

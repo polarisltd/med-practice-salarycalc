@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FIDAVISTA>
+    <Header>
+        <From>Sistēma Tildes Jumis TJ7.0.136.d21</From>
+        <Timestamp>20240910111243958</Timestamp>
+    </Header>
+    <Payment>
+        <BenSet>
+            <Amt>110.11</Amt>
+            <BBAddress>Balasta dambis 1a, Rīga, LV-1048</BBAddress>
+            <BBName>Swedbank, AS</BBName>
+            <BBSwift>HABALV22</BBSwift>
+            <BenAccNo>LV10HABA0551009218135</BenAccNo>
+            <BenAddress>Rīga, Tallinas iela 30A - 37, Latvija</BenAddress>
+            <BenCountry>LV</BenCountry>
+            <BenLegalId>40003725708</BenLegalId>
+            <BenName>PSD, SIA</BenName>
+            <Comm>OUR</Comm>
+            <Priority>N</Priority>
+        </BenSet>
+        <Ccy>EUR</Ccy>
+        <DebitCcy>EUR</DebitCcy>
+        <DocNo>06</DocNo>
+        <ExtId>1822</ExtId>
+        <PayAccNo>LV93RIKO0000082084099</PayAccNo>
+        <PayLegalId>40003408048</PayLegalId>
+        <PmtInfo>Rēķins nr. 011</PmtInfo>
+        <RegDate>2024-09-10</RegDate>
+        <TaxPmtFlg>N</TaxPmtFlg>
+    </Payment>
+</FIDAVISTA>
